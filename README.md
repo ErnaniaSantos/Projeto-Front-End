@@ -3,7 +3,7 @@ O projeto, consiste no desenvolvimento de um site.
 
 É um site criado usando as linguagens HTML, JAVASCRIPT e CSS. 
 
-O site, é um catálago de filmes, no qual ao digitar o filme da sua escolha e clicar na barra de pesquisa, dando ENTER, mostrará os filmes encontrados.
+O site, é um catálago de filmes, no qual ao digitar um nome do filme e clicar na barra de pesquisa, dando ENTER, mostrará os filmes encontrados.
 
 Clicando no filme, apareceá o modal, com a descrição do filme.
 
